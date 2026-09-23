@@ -1,5 +1,5 @@
-# Prima Bobo: instrukcja dla Claude
-*Ten plik leży w głównym folderze „Prima Bobo AI”. Claude Code czyta go na starcie każdej rozmowy. W Claude w przeglądarce wklej go jako instrukcję projektu.*
+# Prima Bobo: instrukcja dla Codexa
+*Ten plik leży w głównym folderze „Prima Bobo AI”. Codex czyta `AGENTS.md` automatycznie na starcie każdej rozmowy w tym folderze. Jeśli ktoś pracuje w Claude Code, skopiujcie go jako `CLAUDE.md`.*
 
 ## Kim jesteśmy
 Prima Bobo, sklep z artykułami dla dzieci (primabobo.pl i Allegro). Szczegóły: `firma.md`.

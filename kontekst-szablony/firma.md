@@ -1,5 +1,5 @@
 # Prima Bobo: kontekst firmy
-*Wspólny plik dla całego zespołu. Uzupełnia szefowa z Natalią. Pisz krótko, własnymi słowami, bez upiększania. Czego nie wiesz, zostaw puste: Claude zapyta.*
+*Wspólny plik dla całego zespołu. Uzupełnia osoba zarządzająca firmą z osobą od sklepu. Pisz krótko, własnymi słowami, bez upiększania. Czego nie wiesz, zostaw puste: Codex zapyta.*
 
 ## 1. Co sprzedajemy
 - Główne kategorie (np. wanienki, nocniki, barierki, krzesełka, przewijaki):
@@ -15,7 +15,7 @@
 - W jakim momencie (przed porodem, pierwsze miesiące, nauka nocnikowania):
 - 5 pytań, które klienci zadają najczęściej (skopiuj z wiadomości albo Allegro):
 
-## 4. Zasady sklepu (fakty, które Claude może podawać)
+## 4. Zasady sklepu (fakty, które Codex może podawać)
 - Dostawa: czas, koszt, darmowa od:
 - Zwroty i reklamacje:
 - Gwarancja:

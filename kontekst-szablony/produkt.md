@@ -1,5 +1,5 @@
 # Produkt: [nazwa z karty produktu]
-*Jeden plik na jeden produkt. Tylko fakty z karty produktu, instrukcji i opinii. Claude nie może dopisać cechy, której tu nie ma.*
+*Jeden plik na jeden produkt. Tylko fakty z karty produktu, instrukcji i opinii. Codex nie może dopisać cechy, której tu nie ma.*
 
 ## Fakty
 - Nazwa i warianty (kolory, rozmiary):

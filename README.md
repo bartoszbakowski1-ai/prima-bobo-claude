@@ -2,6 +2,16 @@
 
 Prowadzący: Bartek Bąkowski. Materiały przygotowane pod **Codex** (tego używacie na co dzień). Te same pliki działają w Claude Code, ChatGPT i Claude.
 
+## Start w 1 minutę: wklej to do Codexa
+Otwórz Codexa w folderze, w którym ma powstać „Prima Bobo AI” (np. Dokumenty albo Dysk Google), i wklej:
+
+> Pobierz materiały z https://github.com/bartoszbakowski1-ai/prima-bobo-claude (git clone albo ZIP z https://github.com/bartoszbakowski1-ai/prima-bobo-claude/archive/refs/heads/main.zip). Utwórz folder „Prima Bobo AI” z podfolderami: produkty, zdjecia, wideo, opinie, reklamy, konkurencja, raporty. Skopiuj do głównego folderu AGENTS.md, firma.md i produkt.md z kontekst-szablony, a prompty-wywiad.md, prompty.md i instrukcja-GA4.md do podfolderu materialy. Skopiuj folder meta-copy do mojego folderu skilli Codexa (~/.codex/skills/meta-copy). Na koniec pokaż mi, co powstało, i powiedz, jak otworzyć Codexa w folderze „Prima Bobo AI”.
+
+Codex zapyta o zgodę na pobranie z internetu i zapis plików. Trzeba ją dać.
+Jeśli pobieranie nie działa: na stronie repozytorium kliknij zielony przycisk **Code**, potem **Download ZIP**, rozpakuj i napisz Codexowi, gdzie leży folder.
+
+Potem otwórz Codexa w folderze „Prima Bobo AI” i zacznij od pierwszego wywiadu z `prompty-wywiad.md`.
+
 ## Co tu jest
 | Plik | Do czego |
 |---|---|
